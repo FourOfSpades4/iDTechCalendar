@@ -6,6 +6,7 @@ Simple program to add all scheduled from iDTech to Google Calendar to make it ea
 ## Setup
 - Clone the repository: `git clone https://github.com/FourOfSpades4/iDTechCalendar.git`
 - Make sure Python is installed
+- Install [Requests](https://pypi.org/project/requests/) through `pip install requests`
 - Install [Selenium](https://selenium-python.readthedocs.io/installation.html) through `pip install selenium`
   - This uses Selenium Firefox, not Chrome. You can edit it for Chrome if you'd like
 - Setup [Google Calendar API](https://developers.google.com/calendar/api/quickstart/python) for Python
